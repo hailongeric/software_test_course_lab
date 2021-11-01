@@ -2,3 +2,5 @@
 
 
 apk in output
+
+second homework in "app" directory
